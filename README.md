@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://www.youtube.com/watch?v=FkowOdMjvYo" target="_blank">
       <img src="https://github.com/user-attachments/assets/eaaeb1f0-22da-46be-9e29-9bef70e0039d" alt="Project Banner">
-    </a>
   <br />
 
   <div>
@@ -65,3 +63,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 👉 **Responsive**: The application is responsive across all devices.
 
 and many more, including code architecture and reusability 
+
+
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHkzOGNiNzlrMjhmNjN4cHlib3RhMG94amt0d2t0ZnM0ZmE3amI3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6MbeDGsGThG0vb5m/giphy.webp" alt="Project Banner">
