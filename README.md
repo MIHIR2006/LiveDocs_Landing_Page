@@ -66,6 +66,3 @@ and many more, including code architecture and reusability
 
 ## ➤ License
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHkzOGNiNzlrMjhmNjN4cHlib3RhMG94amt0d2t0ZnM0ZmE3amI3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6MbeDGsGThG0vb5m/giphy.webp" alt="Project Banner">
