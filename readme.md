@@ -1,4 +1,7 @@
-# Landing Page for Live Docs
+
+
+[![Landing](https://github.com/MIHIR2006/LiveDocs_Landing_Page/blob/main/image.png)](https://live-docs-seven-theta.vercel.app)
+
 
 ## Real-time Collaborative Document Editing for Modern Teams
 
@@ -47,5 +50,5 @@ Live Docs provides a seamless real-time editing experience for teams to collabor
 ## Get Started Today!
 Start collaborating in real-time with your team. Sign up for a free trial or contact us for more information!
 
----
+
 
